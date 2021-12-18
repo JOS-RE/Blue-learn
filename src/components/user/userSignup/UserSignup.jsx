@@ -2,8 +2,10 @@ import React from 'react'
 
 export const UserSignup = () => {
     return (
-        <div>
-            
-        </div>
+      <>
+
+          <h1>This is User Signup</h1>
+      
+      </>
     )
 }
