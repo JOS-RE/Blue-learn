@@ -2,8 +2,10 @@ import React from 'react'
 
 export const AdminLogin = () => {
     return (
-        <div>
-            
-        </div>
+        <>
+        <h1>This is Admin login</h1>
+        
+        
+        </>
     )
 }
