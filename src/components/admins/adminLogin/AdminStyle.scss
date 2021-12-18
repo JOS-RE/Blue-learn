@@ -1,0 +1,27 @@
+.admin {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: right;
+    .form {
+        .inputs {
+            display: flex;
+            justify-content: space-evenly;
+            align-items: flex-start;
+            flex-direction: column;
+            .input {
+                height: 3rem;
+                width: 20rem;
+                border-radius:20px ;
+                // border: 2px solid black;
+                border-style: normal;
+
+            }
+        }
+        .btn {
+            display: flex;
+            justify-content: space-evenly;
+            align-items: flex-end;
+        }
+    }
+    
+}

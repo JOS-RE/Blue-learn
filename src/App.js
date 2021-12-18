@@ -17,9 +17,6 @@ function App() {
     <Route path="/user/Login" element={<UserLogin/>}/>
     <Route path="/user/signup" element={<UserSignup/>}/>
   </Routes>
-  <div>
-    helo
-  </div>
   </BrowserRouter>
  
    
