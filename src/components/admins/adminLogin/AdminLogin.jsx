@@ -10,7 +10,7 @@ export const AdminLogin = () => {
       <div className="form">
         <div className="Heading">
           <p>START FOR FREE</p>
-          <h1>Create new account </h1>
+          <h1>Login  Here </h1>
           <p>Signup</p>
         </div>
         <div className="inputs">
