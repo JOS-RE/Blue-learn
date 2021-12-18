@@ -8,6 +8,7 @@ import {UserLogin} from "./components/user/userLogin/UserLogin"
 function App() {
   return (
   //  <Routing/>
+  
   <BrowserRouter>
   <Routes>
     <Route path="/" />
@@ -16,7 +17,11 @@ function App() {
     <Route path="/user/Login" element={<UserLogin/>}/>
     <Route path="/user/signup" element={<UserSignup/>}/>
   </Routes>
+  <div>
+    helo
+  </div>
   </BrowserRouter>
+ 
    
   );
 }
