@@ -12,7 +12,7 @@ export function Routing() {
         <Route path="/admin/signup" element={<AdminSignup/>}/>
         <Route path="/admin/Login" element={<AdminLogin/>}/>
         <Route path="/user/Login" element={<UserLogin/>}/>
-        <Route path="/user/singup" element={<UserSignup/>}/>
+        <Route path="/user/signup" element={<UserSignup/>}/>
       </Routes>
       </BrowserRouter>
     );
